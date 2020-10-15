@@ -1,0 +1,22 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    color: brown;
+}
+
+li#l1 {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-image: url(IMG/745_icon.jpg);
+}
+
+li#l2 {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-image: url(IMG/4000_icon.jpg);
+}
+
+li#l3 {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-image: url(IMG/440_icon.jpg);
+}
