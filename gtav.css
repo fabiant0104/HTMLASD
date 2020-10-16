@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+}
+
+img#img1 {
+    width: 500px;
+    height: 300px;
+    position: relative;
+    right: -160px;
+}
+
+h3#h3q1 {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+h3#h3q2 {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+h3#h3q3 {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+h3#h3q4 {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+img#img3 {
+    position: relative;
+    right: -200;
+}
