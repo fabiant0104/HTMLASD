@@ -51,10 +51,19 @@ li#l9 {
     list-style-image: url(IMG/Stalker-icon.png);
 }
 
+li#l10 {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-image: url(IMG/105600_icon.jpg);
+}
+
 h4#h4q1 {
     color: crimson;
 }
 
 h4#h4q2 {
     color: greenyellow;
+}
+
+h4#h4q3 {
+    color: yellow;
 }
